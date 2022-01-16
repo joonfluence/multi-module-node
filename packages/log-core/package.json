@@ -24,6 +24,7 @@
     "url": "https://github.com/joonfluence/monorepo_boilerplate/issues"
   },
   "dependencies": {
-    "chalk": "^5.0.0"
-  }
+    "chalk": "5.0.0"
+  },
+  "type": "module"
 }

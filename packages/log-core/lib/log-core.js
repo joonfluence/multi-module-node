@@ -1,7 +1,7 @@
-const { red } = require("chalk");
+import red from "chalk";
 
 function core() {
   console.log(red("❤  Running Core !!!!!"));
 }
 
-module.exports = core;
+export default core;

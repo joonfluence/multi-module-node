@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const { program } = require("commander");
-const LogCore = require("log-core");
+import { program } from "commander";
+import LogCore from "log-core";
 
 // action
 program.action((cmd) => LogCore());
