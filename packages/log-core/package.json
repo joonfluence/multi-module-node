@@ -1,0 +1,29 @@
+{
+  "name": "log-core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "joonho lee <goodfluence@naver.com>",
+  "homepage": "https://github.com/joonfluence/monorepo_boilerplate#readme",
+  "license": "ISC",
+  "main": "lib/log-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joonfluence/monorepo_boilerplate.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/joonfluence/monorepo_boilerplate/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
